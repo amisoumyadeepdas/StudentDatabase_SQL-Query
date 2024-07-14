@@ -88,6 +88,5 @@ Feel free to contribute to the project by forking the repository and submitting 
 
 ---
 
-Happy Querying!
 
 
